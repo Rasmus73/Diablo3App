@@ -1,0 +1,3 @@
+include ':app'
+include ':diablo3api_library'
+project(':diablo3api_library').projectDir = new File('F:/Android/Code/Diablo3API_Library/')
